@@ -6,7 +6,7 @@
 <p align="center"><strong>Capture. End of day. Share.</strong></p>
 
 <p align="center">
-  macOS 13+ &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Free while in early access &nbsp;·&nbsp; Works with Claude, ChatGPT, Gemini (Copilot coming soon)
+  macOS 13+ &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Free while in early access &nbsp;·&nbsp; Works with Claude, ChatGPT, Gemini (Copilot coming soon)
 </p>
 
 <p align="center">
